@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "wmall",
+    "packageName": "com.hbins.wmall",
+    "packageFolder": "com/hbins/wmall",
+    "serverPort": 8103,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "oracle",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "zh-cn",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "NTQzMWQwNzM0NDcxYzZlNTNlODZkMjI1ODBmZGMxMmVkODU3NjUxOGMzZmU4MGVmYThiNzA5ZmM4ZDEwMTM1MDE1OWNhZTM1YmY2ZDk5Yjc0M2Y2NDhmMzZiNWI1ZjAxY2JjMjFjNmM4Nzk1ZWI4MDI2YjM1MjlhZjQ5MjNkNGY=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "hbsinosoft",
+  "repository-name": "hbins-platform-wmall"
+}
